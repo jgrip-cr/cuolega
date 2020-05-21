@@ -1,0 +1,6 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{HTTP_USER_AGENT} !(iPhone|iPod|Android|BlackBerry|Windows.Phone) [NC]
+RewriteCond %{QUERY_STRING} !mode=pc
+RewriteRule ^$ /af/ [R,L]
+</IfModule>

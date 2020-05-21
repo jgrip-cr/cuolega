@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+	<meta charset="UTF-8">
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<title>フーズラボエージェント | 年間3000名以上の飲食業界転職相談実績</title>
+	
+	<meta name="description" content="株式会社クオレガは外食産業、飲食店専門の人材紹介事業、ヘッドハンティング事業を行っている企業になります。フーズラボ・エージェントとして候補者の今と明るい5年後のキャリアを考える転職支援サービスを展開しております。">
+	
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
+	<link href="indeed.css" rel="stylesheet" type="text/css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>
+
+<script type="text/javascript">
+        $(document).ready(function(){
+            $('.slider').bxSlider({
+                auto: true,
+                pause: 5000,
+            });
+        });
+</script>
+</head>
+
+<body>
+	<header>
+		<div id="nav">
+				<link href="indeed.css" rel="stylesheet" type="text/css">
+				<div class="logo"><a href="http://www.cuolega.co.jp/indeed"><img src="./image/logo.png" alt="株式会社クオレガのロゴ" width="140" art="logo"></a></div>
+				<div class="catch" alt="年間3000名以上の飲食業界転職相談実績"></div>
+		</div>
+	</header>
+
+<!--コンテンツ-->
+		
+	<div class="contents">
+		<br>
+		<h2>業態、職種、エリア別に見る</h2>
+		<h1>フーズラボエージェントの求人<img class="check_top" src="./image/check_top.png"></h1>
+		<br>
+		<hr>
+		
+		<ul>
+			<br>
+			<li><a href="http://foods-labo.com/indeed/insyokumgrtokyo">飲食店　求人　店長候補（ホールスタッフ）　東京都内</a></li>
+			<li><a href="http://foods-labo.com/indeed/insyokukitchentokyo">飲食店　求人　シェフ候補/料理長候補（キッチン/調理スタッフ）　東京都内</a></li>
+			<li><a href="http://foods-labo.com/indeed/insyokumgrkanagawa">飲食店　求人　店長候補（ホールスタッフ）　神奈川県横浜市</a></li>
+			<li><a href="http://foods-labo.com/indeed/insyokukitchenkanagawa">飲食店　求人　シェフ候補/料理長候補（キッチン/調理スタッフ）　神奈川県横浜市</a></li>
+			<li><a href="http://foods-labo.com/indeed/cafemgrtokyo">カフェ　求人　店長候補（ホールスタッフ）　東京都内</a></li>
+			<li><a href="http://foods-labo.com/indeed/cafekitchentokyo">カフェ　求人　シェフ候補/料理長候補（キッチン/調理スタッフ）　東京都内</a></li>
+			<li><a href="http://foods-labo.com/indeed/cafemgrkanagawa">カフェ　求人　店長候補（ホールスタッフ）　神奈川県横浜市</a></li>
+			<li><a href="http://foods-labo.com/indeed/cafekitchenkanagawa">カフェ　求人　シェフ候補/料理長候補（キッチン/調理スタッフ）　神奈川県横浜市</a></li>
+			<li><a href="http://foods-labo.com/indeed/cookkitchentokyo">調理師　求人　シェフ候補/料理長候補（キッチン/調理スタッフ）　東京都内</a></li>
+			<li><a href="http://foods-labo.com/indeed/cookkitchenkanagawa">調理師　求人　シェフ候補/料理長候補（キッチン/調理スタッフ）　神奈川県横浜市</a></li>
+			<li><a href="http://foods-labo.com/indeed/wasyoku.izakayamgrtokyo">和食・居酒屋　求人　店長候補（ホールスタッフ）　東京都内</a></li>
+			<li><a href="http://foods-labo.com/indeed/wasyoku.izakayakitchentokyo">和食・居酒屋　求人　シェフ候補/料理長候補（キッチン/調理スタッフ）　東京都内</a></li>
+			<li><a href="http://foods-labo.com/indeed/wasyoku.izakayamgrkanagawa">和食・居酒屋　求人　店長候補（ホールスタッフ）　神奈川県横浜市</a></li>
+			<li><a href="http://foods-labo.com/indeed/wasyoku.izakayakitchenkanagawa">和食・居酒屋　求人　シェフ候補/料理長候補（キッチン/調理スタッフ）　神奈川県横浜市</a></li>
+			<li><a href="http://foods-labo.com/indeed/frenchmgrtokyo">フレンチ（ビストロ）　求人　店長候補（ホールスタッフ）　東京都内</a></li>
+			<li><a href="http://foods-labo.com/indeed/frenchkitchentokyo">フレンチ（ビストロ）　求人　シェフ候補/料理長候補（キッチン/調理スタッフ）　東京都内</a></li>
+			<li><a href="http://foods-labo.com/indeed/frenchmgrkanagawa">フレンチ（ビストロ）　求人　店長候補（ホールスタッフ）　神奈川県横浜市</a></li>
+			<li><a href="http://foods-labo.com/indeed/frenchkitchenkanagawa">フレンチ（ビストロ）　求人　シェフ候補/料理長候補（キッチン/調理スタッフ）　神奈川県横浜市</a></li>
+			<li><a href="http://foods-labo.com/indeed/italianmgrtokyo">イタリアン（リストランテ・トラットリア・ピッツェリア・バル）  求人　店長候補（ホールスタッフ）　東京都内</a></li>
+			<li><a href="http://foods-labo.com/indeed/italiankitchentokyo">イタリアン（リストランテ・トラットリア・ピッツェリア・バル）  求人　シェフ候補/料理長候補（キッチン/調理スタッフ）　東京都内</a></li>
+			<li><a href="http://foods-labo.com/indeed/italianmgrkanagawa">イタリアン（リストランテ・トラットリア・ピッツェリア・バル）  求人　店長候補（ホールスタッフ）　神奈川県横浜市</a></li>
+			<li><a href="http://foods-labo.com/indeed/italiankitchenkanagawa">イタリアン（リストランテ・トラットリア・ピッツェリア・バル）  求人　シェフ候補/料理長候補（キッチン/調理スタッフ）　神奈川県横浜市</a></li>
+			<li><a href="http://foods-labo.com/indeed/sushisyokunintokyo">鮨職人、お寿司屋の求人　鮨職人、鮨職人見習い　東京都内</a></li>
+			<li><a href="http://foods-labo.com/indeed/cookkitchenkanagawa">鮨職人、お寿司屋の求人　鮨職人、鮨職人見習い　神奈川県横浜市</a></li>
+			<li><a href="http://foods-labo.com/indeed/ramenmgrtokyo">ラーメン　店長候補（店舗スタッフ）　東京都内</a></li>
+			<li><a href="http://foods-labo.com/indeed/ramenmgrkanagawa">ラーメン　店長候補（店舗スタッフ）　神奈川県横浜市</a></li>
+			<li><a href="http://foods-labo.com/indeed/yakinikumgrtokyo">焼肉　求人　店長候補（ホールスタッフ）　東京都内</a></li>
+			<li><a href="http://foods-labo.com/indeed/yakinikukitchentokyo">焼肉　求人  シェフ候補/料理長候補（キッチン/調理スタッフ）　東京都内</a></li>
+			<li><a href="http://foods-labo.com/indeed/yakinikumgrkanagawa">焼肉　求人　店長候補（ホールスタッフ）　神奈川県横浜市</a></li>
+			<li><a href="http://foods-labo.com/indeed/yakinikukitchenkanagawa">焼肉　求人　シェフ候補/料理長候補（キッチン/調理スタッフ）　神奈川県横浜市</a></li>
+		</ul>
+	</div>
+	
+<!--最下部-->
+<p class="allright">2017 cuolega, Inc. All Rights Reserved.</p>
+	
+</body>
+</html>

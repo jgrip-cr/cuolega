@@ -1,0 +1,271 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://foods-labo.com/rookietest1" resolutions="1x,2x" timestamp="1568107657947">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a.css" crc="329844959" ref="index:thanks"/>
+    <file name="index.css" crc="3927819830" ref="index"/>
+    <file name="thanks.css" crc="368205226" ref="thanks"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>thanks:index:thanks"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:phone>thanks:index:thanks"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>thanks:index:thanks"/>
+    <file name="museconfig.js" crc="310584261" ref="phone>index:phone>thanks:index:thanks"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:phone>thanks:index:thanks"/>
+    <file name="webpro.js" crc="4059564322" ref="phone>index:phone>thanks:index:thanks"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="phone>index:phone>thanks:index:thanks"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="phone>index:phone>thanks:index:thanks"/>
+    <file name="touchswipe.js" crc="4075097462" ref="phone>index:phone>thanks:index:thanks"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>index:index"/>
+    <file name="form_check.php" crc="4020933626" ref="phone>index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="phone>index"/>
+    <file name="form_process.php" crc="37464564" ref="phone>index"/>
+    <file name="form-u4119.php" crc="21214202" ref="phone>index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="phone>index:phone>thanks:index:thanks"/>
+    <file name="require.js" crc="7928878" ref="phone>index:phone>thanks:index:thanks"/>
+    <file name="form-u722.php" crc="224328623" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="487932428" ref="phone>index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:phone>thanks:index:thanks"/>
+    <file name="アセット-11.svg" crc="4232284661" seo="true" ref="phone>index:phone>thanks">
+      <caption webpage="index" alt=""/>
+      <caption webpage="thanks" alt=""/>
+    </file>
+    <file name="アセット 11_poster_.png" crc="521167622" ref="phone>index"/>
+    <file name="sp_lp_1.jpg" crc="3871807968" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sp_lp_2.jpg" crc="4022849976" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sp_lp_3.jpg" crc="271958280" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:phone>thanks:index:thanks"/>
+    <file name="sp_recruit1.jpg" crc="3814109095" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sp_recruit1_2x.jpg" crc="4165814037" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sp_recruit2.jpg" crc="523258883" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sp_recruit2_2x.jpg" crc="501030099" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sp_recruit3.jpg" crc="201469101" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sp_recruit3_2x.jpg" crc="407588972" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sp_recruit4.jpg" crc="534268112" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sp_recruit4_2x.jpg" crc="435147109" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pixta_37770474_xl.jpg" crc="377736705" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3613-5.png" crc="3848053190" ref="phone>index"/>
+    <file name="u3613-5_2x.png" crc="4185824921" ref="phone>index"/>
+    <file name="u3611-5.png" crc="147757107" ref="phone>index"/>
+    <file name="u3611-5_2x.png" crc="3839247244" ref="phone>index"/>
+    <file name="u3609-5.png" crc="191065433" ref="phone>index"/>
+    <file name="u3609-5_2x.png" crc="3893269364" ref="phone>index"/>
+    <file name="u3607-7.png" crc="299804612" ref="phone>index"/>
+    <file name="u3607-7_2x.png" crc="3981855323" ref="phone>index"/>
+    <file name="u4925-5.png" crc="280451589" ref="phone>index"/>
+    <file name="u4925-5_2x.png" crc="387576869" ref="phone>index"/>
+    <file name="u4926-5.png" crc="4242055258" ref="phone>index"/>
+    <file name="u4926-5_2x.png" crc="3861927071" ref="phone>index"/>
+    <file name="graph.png" crc="477373681" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pixta_46061691_xl-crop-u8363.jpg" crc="3782274803" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pixta_46061691_xl-crop-u8363_2x.jpg" crc="4196958001" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pixta_16358866_xl-crop-u8370.jpg" crc="4122555247" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pixta_16358866_xl-crop-u8370_2x.jpg" crc="516653138" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pixta_40395099_l-crop-u8379.jpg" crc="4168838791" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pixta_40395099_l-crop-u8379_2x.jpg" crc="210274192" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pixta_45590448_xl-crop-u8387.jpg" crc="428862522" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pixta_45590448_xl-crop-u8387_2x.jpg" crc="3949709972" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="時計の無料アイコン.svg" crc="4064454983" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="時計の無料アイコン_poster_.png" crc="4117379985" ref="phone>index"/>
+    <file name="company.svg" crc="271868818" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="company_poster_.png" crc="3963213573" ref="phone>index"/>
+    <file name="job-interview.svg" crc="3864109533" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="job-interview_poster_.png" crc="3552910" ref="phone>index"/>
+    <file name="contract.svg" crc="4091170331" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="contract_poster_.png" crc="4234970267" ref="phone>index"/>
+    <file name="checkboxunchecked.jpg" crc="495023700" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxunchecked_2x.jpg" crc="4041065271" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxuncheckedrollover.jpg" crc="4076496830" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxuncheckedrollover_2x.jpg" crc="421393327" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxuncheckedmousedown.jpg" crc="361678653" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxuncheckedmousedown_2x.jpg" crc="119826174" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxchecked.jpg" crc="477278992" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxchecked_2x.jpg" crc="8340162" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxcheckedrollover.jpg" crc="435737969" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxcheckedrollover_2x.jpg" crc="461578639" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxcheckedmousedown.jpg" crc="4004261994" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="checkboxcheckedmousedown_2x.jpg" crc="3782867047" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="toumei.svg" crc="297497756" seo="true" ref="phone>index:phone>thanks:index:thanks">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="thanks" alt=""/>
+      <caption webpage="thanks" alt=""/>
+    </file>
+    <file name="toumei_poster_.png" crc="522418119" ref="phone>index"/>
+    <file name="357cb2721081ef5afb8caf32280415cd_s.jpg" crc="212325887" seo="true" ref="phone>thanks:thanks">
+      <caption webpage="thanks" alt=""/>
+      <caption webpage="thanks" alt=""/>
+    </file>
+    <file name="step1_3.svg" crc="4127184613" seo="true" ref="phone>thanks:thanks">
+      <caption webpage="thanks" alt=""/>
+      <caption webpage="thanks" alt=""/>
+    </file>
+    <file name="step1_3_poster_.png" crc="519913882" ref="phone>thanks"/>
+    <file name="85abd498567700734d90992246a50718_s-crop-u8040.jpg" crc="344289300" seo="true" ref="phone>thanks">
+      <caption webpage="thanks" alt=""/>
+    </file>
+    <file name="85abd498567700734d90992246a50718_s-crop-u8040_2x.jpg" crc="36784301" seo="true" ref="phone>thanks">
+      <caption webpage="thanks" alt=""/>
+    </file>
+    <file name="lp1.jpg" crc="4239007900" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lp2.jpg" crc="2835948" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="lp3.jpg" crc="512065300" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recruit1.jpg" crc="4040867396" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recruit2.jpg" crc="3950153029" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recruit3.jpg" crc="470879636" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recruit4.jpg" crc="72562289" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1564-5.png" crc="475038227" ref="index"/>
+    <file name="u1564-5_2x.png" crc="69019091" ref="index"/>
+    <file name="u1569-5.png" crc="3845946323" ref="index"/>
+    <file name="u1569-5_2x.png" crc="284435425" ref="index"/>
+    <file name="u1578-5.png" crc="4221873252" ref="index"/>
+    <file name="u1578-5_2x.png" crc="4104721026" ref="index"/>
+    <file name="u1587-5.png" crc="329634000" ref="index"/>
+    <file name="u1587-5_2x.png" crc="240462865" ref="index"/>
+    <file name="u4718-5.png" crc="184606366" ref="index"/>
+    <file name="u4718-5_2x.png" crc="3841403034" ref="index"/>
+    <file name="u4785-5.png" crc="383357769" ref="index"/>
+    <file name="u4785-5_2x.png" crc="193515877" ref="index"/>
+    <file name="pixta_46061691_xl-crop-u8249.jpg" crc="3944992295" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pixta_46061691_xl-crop-u8249_2x.jpg" crc="4144358576" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pixta_16358866_xl-crop-u8261.jpg" crc="239128287" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pixta_16358866_xl-crop-u8261_2x.jpg" crc="3967443288" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pixta_40395099_l-crop-u8269.jpg" crc="4012670174" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pixta_40395099_l-crop-u8269_2x.jpg" crc="528163314" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pixta_45590448_xl-crop-u8273.jpg" crc="166597995" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pixta_45590448_xl-crop-u8273_2x.jpg" crc="281998816" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="アセット-10.svg" crc="86376954" seo="true" ref="index:thanks">
+      <caption webpage="index" alt=""/>
+      <caption webpage="thanks" alt=""/>
+    </file>
+    <file name="アセット 10_poster_.png" crc="4115684416" ref="index"/>
+    <file name="85abd498567700734d90992246a50718_s-crop-u7979.jpg" crc="3839204661" seo="true" ref="thanks">
+      <caption webpage="thanks" alt=""/>
+    </file>
+    <file name="85abd498567700734d90992246a50718_s-crop-u7979_2x.jpg" crc="4023801455" seo="true" ref="thanks">
+      <caption webpage="thanks" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a.css" crc="152313200" ref="phone>index:phone>thanks"/>
+      <file name="index.css" crc="12939171" ref="phone>index"/>
+      <file name="thanks.css" crc="106477064" ref="phone>thanks"/>
+    </folder>
+    <file name="index.html" crc="103933416" seo="true" mt="1568107272593" redirect="true"/>
+    <file name="thanks.html" crc="459798099" seo="true" mt="1568089111775" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3771153837" seo="true" mt="1568107249955" redirect="true"/>
+  <file name="thanks.html" crc="3961720376" seo="true" mt="1568089098906" redirect="true"/>
+</manifest>

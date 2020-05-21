@@ -1,0 +1,204 @@
+#u483{background-color:#CCCCCC;}#u489{background-color:#1B957D;}#u5408-6{background-color:transparent;letter-spacing:1px;color:#FFFFFF;text-align:center;line-height:18px;font-family:urw-din, sans-serif;font-weight:400;}#u486-27{background-color:transparent;text-align:left;letter-spacing:1px;color:#FFFFFF;font-family:ヒラギノ角ゴ Pro W3, Hiragino Kaku Gothic Pro, メイリオ, Meiryo, ＭＳ Ｐゴシック, MS PGothic, sans-serif;}#u486-2{font-size:15px;line-height:33px;font-weight:bold;}#u486-6{letter-spacing:1px;}#u486-4,#u486-5,#u486-7,#u486-9,#u486-11,#u486-13,#u486-14,#u486-16,#u486-18,#u486-20,#u486-22,#u486-23,#u486-25{font-size:13px;line-height:20px;}#u495-4{background-color:transparent;line-height:23px;text-align:left;letter-spacing:1px;font-size:13px;color:#FFFFFF;font-family:din-2014, sans-serif;font-weight:400;}#u8503-4,#u8506-4{background-color:transparent;letter-spacing:2px;line-height:25px;color:#FFFFFF;font-family:ヒラギノ角ゴ Pro W3, Hiragino Kaku Gothic Pro, メイリオ, Meiryo, ＭＳ Ｐゴシック, MS PGothic, sans-serif;}#u8491,#u8499{border-width:0px;border-color:transparent;background-color:transparent;}
+
+
+/*
+-------------------------------------------------------------- */
+.form-container {
+  width: 1000px;
+  padding: 30px 0 0;
+  margin-left: 200px;
+  margin-bottom: 100px;
+  color: #787878;
+  clear: both;
+}
+
+/*
+-------------------------------------------------------------- */
+#form ::-moz-placeholder {
+  color: #999;
+  opacity: 1;
+}
+
+#form :-ms-input-placeholder {
+  color: #999;
+}
+
+#form ::-webkit-input-placeholder {
+  color: #999;
+}
+
+/* =#form
+-------------------------------------------------------------- */
+#form p {
+  font-size: 18px;
+}
+
+#form .table {
+  display: table;
+  width: 100%;
+}
+#form .cell {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+#form .center {
+  text-align: center;
+}
+
+#form .sec-ttl {
+  padding: 12px 0;
+  color: #FFFFFF;
+  background: #2cc89f;
+  font-size: 40px;
+  letter-spacing: -1.0px;
+}
+
+#form .sec-ttl::after {
+  top: 100%;
+  width: 1px;
+  left: 0;
+  right: 0;
+  border-style: solid;
+  border-width: 12px 7.5px 0 7.5px;
+  border-color: #2cc89f transparent transparent transparent;
+  content: '';
+  position: absolute;
+  margin: 0 auto;
+}
+
+#form .content-width {
+  padding: 50px 0;
+}
+
+#form .item-container {
+  margin: 0 0 6px 0;
+}
+
+#form .item-container:first-child {
+  margin-top: 55px;
+}
+
+#form p span {
+  color: #f05555;
+}
+
+#form dl {
+  font-size: 20px;
+}
+
+#form dt {
+  width: 250px;
+  padding: 9px 30px 9px 15px;
+  text-align: right;
+}
+
+#form dd input {
+  width: 748px;
+  border: 1px solid #787878;
+  font-size: 20px;
+  padding: 9px 0 9px 15px;
+  background-color: #FFFFFF;
+}
+
+#form .dt_ttl {
+  font-weight: bold;
+}
+
+#form span.need {
+  background-color: #f05555;
+  color: #fff;
+  border-radius: 5px;
+  padding: 5px;
+  font-size: 15px;
+  margin-left: 10px;
+}
+
+#form #form-btn {
+  margin-top: -5px;
+  border: 0;
+  width: 601px;
+  height: 88px;
+  background: url('../images/btn_form.png') left top no-repeat;
+  text-indent: -9000px;
+  cursor: pointer;
+}
+
+#form #form-btn:hover {
+  opacity: 0.8;
+}
+
+.submit.center {
+  margin-top: 45px;
+}
+
+#form .select-box select {
+  position: relative;
+  width: 766px;
+  border: 1px solid #787878;
+  font-size: 20px;
+  padding: 9px 0 9px 15px;
+  background-color: #FFFFFF;
+  border-radius: 0;
+  height: 50px
+}
+
+#form .select-box label {
+  position: relative;
+}
+
+@media screen and (max-width: 640px) {
+  #form dt {
+    width: 585px;
+  }
+
+  #form dd {
+    width: 100%;
+  }
+
+  #form .item-container {
+    margin: 0 0 10px 0;
+  }
+
+  #form .item-box {
+    display: block;
+    margin: 0 auto;
+  }
+
+  #form dd input {
+    width: 582px;
+  }
+
+  #form .select-box select {
+    width: 600px;
+  }
+
+  #form #form-btn {
+    margin-top: -20px;
+  }
+}
+
+
+/* =layout
+-------------------------------------------------------------- */
+#form .sp {
+  display: none;
+}
+
+#form .sp-br {
+  display: none;
+}
+
+@media screen and (max-width: 640px) {
+  #form .pc {
+    display: none;
+  }
+
+  #form .sp {
+    display: block;
+  }
+
+  #form .sp-br {
+    display: inline-block;
+  }
+}

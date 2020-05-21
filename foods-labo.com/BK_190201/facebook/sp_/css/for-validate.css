@@ -1,0 +1,36 @@
+.with-validate {
+  width: 100%;
+  position: relative;
+}
+.with-validate label.error {
+  display: inline-block;
+  position: absolute;
+  z-index: 5;
+  left: -5px;
+  bottom: 100%;
+  margin-bottom: 10px;
+  background-color: #ee5658;
+  color: #fff;
+  padding: 5px 20px;
+  font-size: 12px;
+  border-radius: 4px;
+  width: auto;
+}
+.with-validate label.error::before {
+  content: "";
+  background-color: transparent;
+  position: absolute;
+  top: 100%;
+  margin: 0;
+  left: 20px;
+  width: 0;
+  height: 0;
+  border-width: 10px;
+  border-style: solid;
+  border-color: #ee5658 transparent transparent;
+}
+@media screen and (max-width: 1000px) {
+  .with-validate label.error {
+    font-size: 28px;
+  }
+}

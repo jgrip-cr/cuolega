@@ -1,0 +1,11 @@
+.with-validate {
+  width: 100%;
+  position: relative;
+}
+.with-validate label.error {
+  color: #ee5658;
+}
+
+#form .select-box label.error:after{
+    display:none;
+}

@@ -1,0 +1,122 @@
+@charset "UTF-8";
+
+
+/* CSS Document */
+body {
+	position: relative;
+	background-repeat:no-repeat; 
+    background-attachment:fixed;
+	background-size:contain;
+	margin:0;
+}
+	
+#nav {
+	background-image: url(./image/top.png);
+	background-size:cover;
+}
+
+.catch {
+	margin:30px auto;
+	width:763px;
+	height:322px;
+	padding-bottom:30px;
+	background-image: url(./image/catch.png);
+	background-repeat:no-repeat;
+}
+
+
+ 
+#nav .logo img {
+	margin:10px 30px;
+}
+
+/*業態、職種、エリア別に見る　フーズラボエージェントの求人*/
+.contents {
+	background-color:#FFFFFF;
+	display:block;
+	}
+
+.contents h2 {
+	font-size:18px;
+	margin-left:80px;
+	font-family:'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ','ＭＳ Ｐゴシック', 'MS PGothic', 'sans-serif';
+	padding-bottom:10px;
+}
+
+.contents h1 {
+	font-size:25px;
+	margin-left:80px;
+	font-family:'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ','ＭＳ Ｐゴシック', 'MS PGothic', 'sans-serif';
+}
+
+.contents hr {
+	width:90%;
+}
+
+.contents ul li {
+	margin-top:30px;
+	list-style:none;
+	margin-left:80px;
+}
+
+.check_top{
+	outline:none;
+	border-style:none;
+	list-style:none;
+	witdh:90%;
+	height:90%;
+	margin-left:20px;
+	margin-bottom:-5px;
+}
+
+
+/*All Right*/
+.allright {
+	background-color:#29D3AA;
+	padding:10px;
+    text-align: center;
+	margin-top:90px;
+	margin-bottom:0px;
+	font-size:12px;
+	color:#fff;
+	font-family:'ヒラギノ角ゴ Pro W3','sans-serif';
+}
+
+
+
+@media screen and (max-width: 768px){
+	.catch {
+	margin:auto;
+	background-image: url(./image/catch_sp.png);
+	background-size:100% ;
+	width:320px;
+	background-position:center;
+	background-repeat:no-repeat;
+	}
+}
+
+@media screen and (max-width: 768px){
+	.contents h2 {
+	font-size:15px;
+	margin-left:20px;
+	padding-bottom:5px;
+	font-family:'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ','ＭＳ Ｐゴシック', 'MS PGothic', 'sans-serif';
+}
+}
+
+@media screen and (max-width: 768px){
+.contents h1 {
+	font-size:18px;
+	margin-left:20px;
+	font-family:'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ','ＭＳ Ｐゴシック', 'MS PGothic', 'sans-serif';
+}
+}
+
+@media screen and (max-width: 768px){
+.contents ul li {
+	margin-top:20px;
+	list-style:none;
+	margin:10px 20px;
+	font-family:'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', 'メイリオ','ＭＳ Ｐゴシック', 'MS PGothic', 'sans-serif';
+}
+}

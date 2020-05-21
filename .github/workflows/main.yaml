@@ -1,0 +1,20 @@
+on:
+    push:
+        branches:
+            - master
+name: Publish Website
+jobs:
+    Publish-by-FTP:
+        name: Publish by FTP
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@master
+            - name: Deploy-Action
+                uses: SamKirkland/FTP-Deploy-Action@3.1.0
+                env:
+                    FTP_SERVER: ${{ secrets.FTP_SERVER }}
+                    FTP_USERNAME: ${{ secrets.FTP_USERNAME }}
+                    FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
+                    LOCAL_DIR: src
+                    REMOTE_DIR: /home/r5802656/public_html/tsjg.tokyo/check/cuolega/lp/
+                    ARGS: --delete
